@@ -139,3 +139,9 @@ Bot/
 - `POST /api/flashcards/` - Create a deck of Q&A conceptual flashcards.
 - `POST /api/quiz/` - Build an interactive conceptual MCQ assessment.
 - `POST /api/export/pdf` - Package generated summaries and keywords into an elegant, formatted PDF.
+
+---
+
+## 🚀 Render Deployment
+- Python 3.12.8
+- Updated PyMuPDF for compatibility
